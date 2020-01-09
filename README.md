@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/niral-patel/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Final Website of Portfolio with better understanding
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is only for blog and person information like
 
-### Markdown
+There are some step that must ahve to remember for git
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Initinalize reposatory.
+2. commit all the work when it done.
+3. config git if require.
+4. add remote once.
+5. Push and Pull from vs code
+   - git push -u origin master #for push data to Github
+   - git pull --tags origin master #fro pull data from Github
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/niral-patel/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Start with djago and there are few steps.
